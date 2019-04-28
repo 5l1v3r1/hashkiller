@@ -16,3 +16,6 @@ API Hashkiller - menggunakan OOP (***Object Oriented Programming***)<br>
 contohnya
 http://zplo.it/hashkiller/crack/c82011781577870c81a6766784cd95da
 ```
+## Screenshot
+![Screen Shot](https://raw.githubusercontent.com/ardzz/hashkiller/master/Screenshot%20from%202019-04-28%2021-16-18.png)
+![Screen Shot](https://raw.githubusercontent.com/ardzz/hashkiller/master/Screenshot%20from%202019-04-28%2021-16-50.png)
