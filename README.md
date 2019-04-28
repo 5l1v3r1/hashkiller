@@ -1,5 +1,5 @@
 # [Hashkiller](https://github.com/ardzz/hashkiller)
-[![Version](https://img.shields.io/badge/Version-2.5-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Beta-green.svg)]()
 [![Build](https://img.shields.io/badge/Codename_-_Ardzz-blue.svg?maxAge=259200)]()
 [![HitCount](http://hits.dwyl.io/ardzz/hashkiller.svg)](http://hits.dwyl.io/ardzz/hashkiller)
