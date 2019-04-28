@@ -1,0 +1,18 @@
+{
+    "name": "root/hashkiller",
+    "description": "Unhash MD5",
+    "authors": [
+        {
+            "name": "Ardhana",
+            "email": "zeebploit212@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Hashkiller\\": "App/",
+            "Http\\": "App/"
+        }
+    }
+}

@@ -1,0 +1,2 @@
+RewriteEngine ON
+RewriteRule crack/(.*) index.php?md5=$1 [L]
